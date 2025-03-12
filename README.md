@@ -11,7 +11,7 @@
  </head>
  <body onload="body()">
  <center><h1 id="h1">Manuels et Livres</h1></center>
- <p id="para34"> Bienvenue<br>Sur ce site vous trouverez des liens renvoyant ves des manuels scolaires numérisés ainsi que vers les livres au programme de BAC de français en langues française et en langues étrangères.</p>
+ <p id="para34"> Bienvenue<br>Sur ce site vous trouverez des liens renvoyant vers des manuels scolaires numérisés ainsi que vers les livres au programme de BAC de français en langues française et en langues étrangères.</p>
  <hr>
  <center><p id="para2">Filosofia</p></center>
  <ul>
