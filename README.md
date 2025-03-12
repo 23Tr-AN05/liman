@@ -21,8 +21,8 @@
  <center><p id="para2">Livres de BAC</p></center>
  <p id="para3"> En Espagnole</p>
  <ul>
-     <li>><p id="para34"><a href="https://backend.educ.ar/refactor_resource/get-attachment/3448">Le Peau de Chagrin-version1</a></p></li>
-      <li>><p id="para34"><a href="https://cdn.preterhuman.net/texts/literature/in_spanish/Honorato%20de%20Balzac%20-%20La%20piel%20de%20Zapa.pdf">Le Peau de Chagrin-version2</a></p></li>
+     <li><a href="https://backend.educ.ar/refactor_resource/get-attachment/3448"><p id="para34">Le Peau de Chagrin-version1</p></a></li>
+      <li><a href="https://cdn.preterhuman.net/texts/literature/in_spanish/Honorato%20de%20Balzac%20-%20La%20piel%20de%20Zapa.pdf"><p id="para34">Le Peau de Chagrin-version2</p></a></li>
  </ul>
 
  <hr>
