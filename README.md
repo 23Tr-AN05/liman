@@ -14,15 +14,15 @@
  <p id="para3"> Bienvenue<br>Sur ce site vous trouverez des liens renvoyant ves des manuels scolaires numérisés ainsi que vers les livres au programme de BAC de français en langues française et en langues étrangères.</p>
  <hr>
  <center><p>Filosofia</p></center>
- <ol>
+ <ul>
      <li><h2><a href="https://www.calameo.com/read/005158893318cf29d5e2c">Terminale Générale-philosophie</a></h2></li>
- </ol>
+ </ul>
  <hr>
  <center></p>Livres de BAC</p></center>
  <p id="para3"> En Espagnole</p>
- <ol>
+ <ul>
      <li>><h2><a href="https://backend.educ.ar/refactor_resource/get-attachment/3448">Le Peau de Chagrin-version1</a></h2></li>
       <li>><h2><a href="https://cdn.preterhuman.net/texts/literature/in_spanish/Honorato%20de%20Balzac%20-%20La%20piel%20de%20Zapa.pdf">Le Peau de Chagrin-version2</a></h2></li>
- </ol>
+ </ul>
 
  <hr>
