@@ -23,13 +23,12 @@
   <ul>
     <li><p id="para4">Le théâtre du XVIIe siècle au XXIe siècle</p>
         <ul>
-            <li><hé><a href="https://www.theatre-classique.fr/pages/pdf/CORNEILLEP_MENTEUR.pdf"  target="_blank">
-            <li>
-            <li>
+            <li><h2><a href="https://www.theatre-classique.fr/pages/pdf/CORNEILLEP_MENTEUR.pdf"  target="_blank"> Corneille, <i>Le Menteur</i></a></h2></li>
+            <li><h2><a href="https://beq.ebooksgratuits.com/vents/Musset-badine.pdf"  target="_blank"> Alfred de Musset, <i>On ne badine pas avec l'amour</i></a></h2></li>
+            <li><h2><a href="1/Pour-un-oui-ou-pour-un-non.pdf"  target="_blank"> Nathalie Sarraute, <i>Pour un oui ou pour un non </i></a></h2></li>
         </ul>
     </li>
   </ul>
-
 
  <p id="para3">Espagnole</p>
  <ul>
