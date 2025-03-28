@@ -15,11 +15,23 @@
  <hr>
  <center><p id="para2">Filosofia</p></center>
  <ul>
-     <li><h2><a href="https://www.calameo.com/read/005158893318cf29d5e2c">Terminale Générale-philosophie</a></h2></li>
+     <li><h2><a href="https://www.calameo.com/read/005158893318cf29d5e2c"  target="_blank">Terminale Générale-philosophie</a></h2></li>
  </ul>
  <hr>
  <center><p id="para2">Livres de BAC</p></center>
- <p id="para3"> En Espagnole</p>
+  <p id="para3">Français</p>
+  <ul>
+    <li><p id="para4">Le théâtre du XVIIe siècle au XXIe siècle</p>
+        <ul>
+            <li><hé><a href="https://www.theatre-classique.fr/pages/pdf/CORNEILLEP_MENTEUR.pdf"  target="_blank">
+            <li>
+            <li>
+        </ul>
+    </li>
+  </ul>
+
+
+ <p id="para3">Espagnole</p>
  <ul>
      <li><a href="https://backend.educ.ar/refactor_resource/get-attachment/3448"><p id="para34">Le Peau de Chagrin-version1</p></a></li>
       <li><a href="https://cdn.preterhuman.net/texts/literature/in_spanish/Honorato%20de%20Balzac%20-%20La%20piel%20de%20Zapa.pdf"><p id="para34">Le Peau de Chagrin-version2</p></a></li>
