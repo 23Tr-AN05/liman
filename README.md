@@ -28,6 +28,13 @@
             <li><h2><a href="1/Pour-un-oui-ou-pour-un-non.pdf"  target="_blank"> Nathalie Sarraute, <i>Pour un oui ou pour un non </i></a></h2></li>
         </ul>
     </li>
+        <li><p id="para4">Le roman et le récit du Moyen Âge au XXIe siècle</p>
+        <ul>
+            <li><h2><a href="https://beq.ebooksgratuits.com/vents/Prevost-Lescaut.pdf"  target="_blank"> Abbé Prévost, <i>Manon Lescaut</i></a></h2></li>
+            <li><h2><a href="https://beq.ebooksgratuits.com/balzac/Balzac-67.pdf"  target="_blank">Honoré de Balzac, <i>Le Peau de Chagrin</i></a></h2></li>
+            <li><h2><a href="https://www.ebooksgratuits.com/html/colette_sido.html#_Toc122105859"  target="_blank"> Colette, <i>Sido </i></a></h2></li>
+        </ul>
+    </li>
   </ul>
 
  <p id="para3">Espagnole</p>
